@@ -1,4 +1,4 @@
-# linear-regression-single-feature-1-of-2
+## linear-regression-single-feature-1-of-2
 
 This is from an undergrad ML course assignment. Instructions:
 
